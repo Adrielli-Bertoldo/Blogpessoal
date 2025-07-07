@@ -6,6 +6,9 @@ import { Postagem } from "../entities/postagem.entity";
 
 @Injectable()
 export class PostagemService {
+    findByTitulo(titulo: string): Promise<Postagem[]> {
+      throw new Error("Method not implemented.");
+    }
     temaService: any;
     constructor(
         @InjectRepository(Postagem)
