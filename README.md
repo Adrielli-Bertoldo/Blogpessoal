@@ -1,57 +1,50 @@
-✍️ Projeto Blog Pessoal backend com NestJS
+Blog Pessoal - Backend com NestJS
 
-Este é um projeto de blog pessoal desenvolvido com o framework NestJS utilizando TypeScript. Aqui você encontrará rotas para criar, listar, atualizar e deletar postagens, além de funcionalidades para organização por temas e categorias.
+Este é um projeto de blog pessoal desenvolvido com o framework NestJS utilizando TypeScript. O sistema oferece rotas para criar, listar, atualizar e deletar postagens, além de funcionalidades para organização por temas e categorias. Este projeto foi desenvolvido como parte das atividades do curso realizado na Generation Brasil.
 
 📌 Descrição
-Aplicação backend criada com NestJS como base para um blog pessoal. O projeto segue boas práticas de organização de código, uso de módulos, serviços, controllers e integração com banco de dados.
+A aplicação backend foi criada com NestJS como base para um blog pessoal. O projeto segue boas práticas de organização de código, utilizando módulos, serviços, controllers e integração com banco de dados.
 
-🚀 Tecnologias utilizadas
-NestJS
+🚀 Tecnologias Utilizadas
+NestJS: Framework para construção de aplicações Node.js escaláveis.
+TypeScript: Linguagem de programação que adiciona tipagem estática ao JavaScript.
+Node.js: Ambiente de execução para JavaScript no lado do servidor.
+MySQL: Sistema de gerenciamento de banco de dados relacional, acessado via TypeORM.
+Class Validator: Biblioteca para validação de classes.
+Insomnia: Ferramenta para testar APIs.
+Swagger: Para documentação da API.
+⚙️ Como Rodar o Projeto
+📦 Instalar as Dependências
+Para instalar as dependências do projeto, execute o seguinte comando:
 
-TypeScript
-
-Node.js
-
-MySQL (via TypeORM)
-
-Class Validator
-
-Insomnia 
-
-Swagger (para documentação)
-
-⚙️ Como rodar o projeto
-📦 Instalar as dependências
 bash
-Copiar
-Editar
+
+Run
+Copy code
 npm install
-
-▶️ Executar o projeto
-Modo desenvolvimento:
+▶️ Executar o Projeto
+Modo Desenvolvimento:
 
 bash
-Copiar
-Editar
+
+Run
+Copy code
 npm run start:dev
-Modo produção:
+Modo Produção:
 
 bash
-Copiar
-Editar
+
+Run
+Copy code
 npm run start:prod
-
-📚 Recursos úteis
-Documentação oficial NestJS
-
-Canal oficial no Discord
-
-Documentação Generation Brasil
+📚 Recursos Úteis
+Documentação Oficial do NestJS
+Canal Oficial no Discord
+Documentação da Generation Brasil
 
 👩‍💻 Autora
 Adrielli Bertoldo Fernandes
-Projeto pessoal com fins educativos, com foco em aprofundar os conhecimentos em backend com NestJS.
+Este é um projeto pessoal com fins educativos, focado em aprofundar os conhecimentos em backend com NestJS.
 
 📝 Licença
 Este projeto está sob a licença MIT.
-
