@@ -56,16 +56,9 @@ bash
 Copiar
 Editar
 npm run test:cov
-🚢 Deploy com Mau (opcional)
-Se desejar, você pode fazer o deploy utilizando a ferramenta Mau:
 
-bash
-Copiar
-Editar
-npm install -g @nestjs/mau
-mau deploy
 📚 Recursos úteis
-Documentação oficial NestJS
+Documentação oficial Generation Brasil
 
 Canal oficial no Discord
 
