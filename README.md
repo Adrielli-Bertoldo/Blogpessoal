@@ -1,4 +1,4 @@
-✍️ Blog Pessoal - NestJS
+✍️ Projeto Blog Pessoal backend com NestJS
 
 Este é um projeto de blog pessoal desenvolvido com o framework NestJS utilizando TypeScript. Aqui você encontrará rotas para criar, listar, atualizar e deletar postagens, além de funcionalidades para organização por temas e categorias.
 
