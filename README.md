@@ -12,9 +12,11 @@ TypeScript
 
 Node.js
 
-PostgreSQL (via TypeORM)
+MySQL (via TypeORM)
 
 Class Validator
+
+Insomnia 
 
 Swagger (para documentação)
 
@@ -24,6 +26,7 @@ bash
 Copiar
 Editar
 npm install
+
 ▶️ Executar o projeto
 Modo desenvolvimento:
 
@@ -37,34 +40,13 @@ bash
 Copiar
 Editar
 npm run start:prod
-🧪 Testes
-Testes unitários:
-
-bash
-Copiar
-Editar
-npm run test
-Testes de integração (e2e):
-
-bash
-Copiar
-Editar
-npm run test:e2e
-Cobertura de testes:
-
-bash
-Copiar
-Editar
-npm run test:cov
 
 📚 Recursos úteis
-Documentação oficial Generation Brasil
+Documentação oficial NestJS
 
 Canal oficial no Discord
 
-Cursos oficiais NestJS
-
-NestJS Mau - deploy rápido na AWS
+Documentação Generation Brasil
 
 👩‍💻 Autora
 Adrielli Bertoldo Fernandes
