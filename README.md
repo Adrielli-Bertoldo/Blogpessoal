@@ -13,6 +13,7 @@ MySQL: Sistema de gerenciamento de banco de dados relacional, acessado via TypeO
 Class Validator: Biblioteca para validação de classes.
 Insomnia: Ferramenta para testar APIs.
 Swagger: Para documentação da API.
+
 ⚙️ Como Rodar o Projeto
 📦 Instalar as Dependências
 Para instalar as dependências do projeto, execute o seguinte comando:
@@ -22,6 +23,7 @@ bash
 Run
 Copy code
 npm install
+
 ▶️ Executar o Projeto
 Modo Desenvolvimento:
 
@@ -37,7 +39,9 @@ bash
 Run
 Copy code
 npm run start:prod
+
 📚 Recursos Úteis
+
 Documentação Oficial do NestJS
 Canal Oficial no Discord
 Documentação da Generation Brasil
