@@ -20,8 +20,6 @@ Para instalar as dependências do projeto, execute o seguinte comando:
 
 bash
 
-Run
-Copy code
 npm install
 
 ▶️ Executar o Projeto
@@ -29,15 +27,12 @@ Modo Desenvolvimento:
 
 bash
 
-Run
-Copy code
 npm run start:dev
+
 Modo Produção:
 
 bash
 
-Run
-Copy code
 npm run start:prod
 
 📚 Recursos Úteis
