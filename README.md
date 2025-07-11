@@ -47,6 +47,7 @@ Canal Oficial no Discord
 Documentação da Generation Brasil
 
 👩‍💻 Autora
+
 Adrielli Bertoldo Fernandes
 Este é um projeto pessoal com fins educativos, focado em aprofundar os conhecimentos em backend com NestJS.
 
