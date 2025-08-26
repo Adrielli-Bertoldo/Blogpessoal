@@ -19,20 +19,15 @@ Swagger: Para documentação da API.
 Para instalar as dependências do projeto, execute o seguinte comando:
 
 bash
-
 npm install
 
 ▶️ Executar o Projeto
 Modo Desenvolvimento:
 
 bash
-
 npm run start:dev
-
 Modo Produção:
-
 bash
-
 npm run start:prod
 
 📚 Recursos Úteis
@@ -42,7 +37,7 @@ Canal Oficial no Discord
 Documentação da Generation Brasil
 
 👩‍💻 Autora
-Adrielli Bertoldo Fernandes
+Adrielli Bertoldo
 Este é um projeto pessoal com fins educativos, focado em aprofundar os conhecimentos em backend com NestJS.
 
 📝 Licença
